@@ -1,0 +1,9 @@
+{
+    "categories": {
+        "0": "email"
+    },
+    "description": "A rich-featured plugin to send transactional emails and broadcast (multiple recipient) emails through Postmark.\nIncludes attachments and more features.\nCheck it out! 😄\n\nAlso, check my plugin making course: https://www.unlimitedbubbling.dev/plugin_makery\nWith it you will have everything you need to create new plugins, in other words, you will create new features in Bubble yourself! \nNo more limits for you.\n\nCome visit your custom plugin shop www.unlimitedbubbling.dev and be limitless! ⚡\n\nDo you rely on this plugin commercially and want to fund its maintenance so it never stops working?\nEmail me, the author 😉\nsupport@unlimitedbubbling.dev\n\nAlso, this plugin is client led, which means there is no official roadmap for it! You are the one who requests new features, reports bugs to be fixed and pays me for the effort required.\nContact me if interested! 📨\n\nJust want to say thank you? Then this is the way: https://ko-fi.com/viniciusbrito 😊☕",
+    "image": "//s3.amazonaws.com/appforest_uf/f1593734612175x586531267911184800/scroll-quill.png",
+    "license": "open_source",
+    "name": "Rich Postmark emails"
+}
